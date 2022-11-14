@@ -14,9 +14,9 @@
 
 ### Model Building 
 * For Regression Problem algorithm decided to predict the feature `FWI` (Fire weather Index) which is 90%+ correlated to Classes Feature.
-* Models used : **Linear regression, Lasso Regression, Ridge Regression, Random forest, Decision tree, K-Nearest Neighbour regressor, Support Vector Regressor.**
+* Models used : **Linear regression, Lasso Regression, Ridge Regression**
 * For Classification algorithm decided to predict the features `Classes` from the dataset which is Binary classification `(fire, not fire)`.
-* Models used : **Logistic Regression, Decision Tree, Random Forest, XGboost, K-Nearest Neighbour.**
+* Models used : **Logistic Regression**
 
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
